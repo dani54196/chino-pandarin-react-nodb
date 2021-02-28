@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chino-pandarin-react-nodb/static/css/main.9c08be5f.chunk.css",
-    "main.js": "/chino-pandarin-react-nodb/static/js/main.e1e78aff.chunk.js",
-    "main.js.map": "/chino-pandarin-react-nodb/static/js/main.e1e78aff.chunk.js.map",
+    "main.js": "/chino-pandarin-react-nodb/static/js/main.4f011dc5.chunk.js",
+    "main.js.map": "/chino-pandarin-react-nodb/static/js/main.4f011dc5.chunk.js.map",
     "runtime-main.js": "/chino-pandarin-react-nodb/static/js/runtime-main.69bf6fac.js",
     "runtime-main.js.map": "/chino-pandarin-react-nodb/static/js/runtime-main.69bf6fac.js.map",
     "static/css/2.150d169a.chunk.css": "/chino-pandarin-react-nodb/static/css/2.150d169a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a6923fda.chunk.js",
     "static/css/main.9c08be5f.chunk.css",
-    "static/js/main.e1e78aff.chunk.js"
+    "static/js/main.4f011dc5.chunk.js"
   ]
 }
