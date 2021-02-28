@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/chino-pandarin-react-nodb/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/chino-pandarin-react-nodb/static/js/main.611e5501.chunk.js",
-    "main.js.map": "/chino-pandarin-react-nodb/static/js/main.611e5501.chunk.js.map",
-    "runtime-main.js": "/chino-pandarin-react-nodb/static/js/runtime-main.1e7cac3c.js",
-    "runtime-main.js.map": "/chino-pandarin-react-nodb/static/js/runtime-main.1e7cac3c.js.map",
-    "static/js/2.1dffed9d.chunk.js": "/chino-pandarin-react-nodb/static/js/2.1dffed9d.chunk.js",
-    "static/js/2.1dffed9d.chunk.js.map": "/chino-pandarin-react-nodb/static/js/2.1dffed9d.chunk.js.map",
-    "static/js/3.b845d0ad.chunk.js": "/chino-pandarin-react-nodb/static/js/3.b845d0ad.chunk.js",
-    "static/js/3.b845d0ad.chunk.js.map": "/chino-pandarin-react-nodb/static/js/3.b845d0ad.chunk.js.map",
+    "main.css": "/chino-pandarin-react-nodb/static/css/main.9c08be5f.chunk.css",
+    "main.js": "/chino-pandarin-react-nodb/static/js/main.e1e78aff.chunk.js",
+    "main.js.map": "/chino-pandarin-react-nodb/static/js/main.e1e78aff.chunk.js.map",
+    "runtime-main.js": "/chino-pandarin-react-nodb/static/js/runtime-main.69bf6fac.js",
+    "runtime-main.js.map": "/chino-pandarin-react-nodb/static/js/runtime-main.69bf6fac.js.map",
+    "static/css/2.150d169a.chunk.css": "/chino-pandarin-react-nodb/static/css/2.150d169a.chunk.css",
+    "static/js/2.a6923fda.chunk.js": "/chino-pandarin-react-nodb/static/js/2.a6923fda.chunk.js",
+    "static/js/2.a6923fda.chunk.js.map": "/chino-pandarin-react-nodb/static/js/2.a6923fda.chunk.js.map",
+    "static/js/3.3ee00b22.chunk.js": "/chino-pandarin-react-nodb/static/js/3.3ee00b22.chunk.js",
+    "static/js/3.3ee00b22.chunk.js.map": "/chino-pandarin-react-nodb/static/js/3.3ee00b22.chunk.js.map",
     "index.html": "/chino-pandarin-react-nodb/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/chino-pandarin-react-nodb/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1dffed9d.chunk.js.LICENSE.txt": "/chino-pandarin-react-nodb/static/js/2.1dffed9d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/chino-pandarin-react-nodb/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/chino-pandarin-react-nodb/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9c08be5f.chunk.css.map": "/chino-pandarin-react-nodb/static/css/main.9c08be5f.chunk.css.map",
+    "static/js/2.a6923fda.chunk.js.LICENSE.txt": "/chino-pandarin-react-nodb/static/js/2.a6923fda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e7cac3c.js",
-    "static/js/2.1dffed9d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.611e5501.chunk.js"
+    "static/js/runtime-main.69bf6fac.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a6923fda.chunk.js",
+    "static/css/main.9c08be5f.chunk.css",
+    "static/js/main.e1e78aff.chunk.js"
   ]
 }
